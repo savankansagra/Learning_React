@@ -23,9 +23,9 @@ It is first learning repository with all the commands.
    @http://localhost:3000/
 
 4) Stop the server and again restart ther server
-    stop the server.
-    install all the dependencies
+    4.1) stop the server.
+    4.2) install all the dependencies
         $npm install 
-    again start the server in development mode
+    4.3) again start the server in development mode
         $npm start
 
