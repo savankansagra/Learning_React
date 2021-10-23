@@ -8,5 +8,14 @@ It is first learning repository with all the commands.
         @ installing the nodejs = https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/
         @ updating the nodejs = https://stackoverflow.com/questions/8191459/how-do-i-update-node-js
 
-2) s
+2) Create the react application
+    @https://reactjs.org/docs/create-a-new-react-app.html
+    $npm install create-react-app
+    $npx create-react-app myfirstapp
+
+3) go to myfirstapp
+    $cd myfirstapp
+
+   run below command to start the localhost server
+   $npm start
 

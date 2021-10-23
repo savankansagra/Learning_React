@@ -1,0 +1,22 @@
+{
+  "name": "learning_react",
+  "version": "1.0.0",
+  "description": "It is first learning repository with all the commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savankansagra/Learning_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savankansagra/Learning_React/issues"
+  },
+  "homepage": "https://github.com/savankansagra/Learning_React#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
