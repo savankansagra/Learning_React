@@ -19,3 +19,6 @@ It is first learning repository with all the commands.
    run below command to start the localhost server
    $npm start
 
+   How to see the output in browser.
+   @http://localhost:3000/
+
