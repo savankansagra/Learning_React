@@ -22,3 +22,10 @@ It is first learning repository with all the commands.
    How to see the output in browser.
    @http://localhost:3000/
 
+4) Stop the server and again restart ther server
+    stop the server.
+    install all the dependencies
+        $npm install 
+    again start the server in development mode
+        $npm start
+
