@@ -1,8 +1,7 @@
 import logo from './logo.svg';
-import './App.css';
-import ExpenseItem from './components/ExpenseItem';
-import Expense from './components/Expense';
+import Expense from './components/Expense/Expense';
 import React from 'react';
+import './App.css';
 
 function App() {
 
