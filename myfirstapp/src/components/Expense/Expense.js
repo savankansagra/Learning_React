@@ -3,6 +3,7 @@ import './Expenses.css';
 
 function Expense(data) {
     const expenseMap = data.items;
+    // console.log("Expense is evaluated by React.")
 
     return (
         <div>

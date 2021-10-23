@@ -5,6 +5,8 @@ export default function ExpenseDate(props){
     const day = props.expenseDate.toLocaleString('en-US', {day: '2-digit'});
     const year = props.expenseDate.getFullYear();
 
+    // console.log("Expense date is evaluated by react..");
+
     return (
         <div className="expense-date">
             <div className="expense-date__month">{month}</div>
