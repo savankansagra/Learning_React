@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import Expense from './components/Expense/Expense';
+import NewExpense from './components/NewExpense/NewExpense';
 import React from 'react';
 import './App.css';
 
@@ -31,6 +32,7 @@ function App() {
 
   return (
     <div>
+      <NewExpense />
       <Expense items={expense}/>
     </div>
   );
